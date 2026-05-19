@@ -1,0 +1,8 @@
+[project]
+name = "impact-proof-kit-backend"
+version = "0.1.0"
+description = "Backend evidence engine for Impact Proof Kit"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
