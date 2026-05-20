@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "private": false,
   "type": "module",
-  "description": "A lightweight system for collecting proof that Volta\u2019s work improved business and student outcomes.",
+  "description": "A lightweight system for collecting proof that Volta’s work improved business and student outcomes.",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "npm run build && node --test test/*.test.js",
@@ -31,11 +31,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/50-impact-proof-kit.git"
+    "url": "git+https://github.com/volta-npo/impact-proof-kit.git"
   },
-  "homepage": "https://volta-npo.github.io/50-impact-proof-kit/",
+  "homepage": "https://volta-npo.github.io/impact-proof-kit/",
   "bugs": {
-    "url": "https://github.com/volta-npo/50-impact-proof-kit/issues"
+    "url": "https://github.com/volta-npo/impact-proof-kit/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
